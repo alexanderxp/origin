@@ -5,5 +5,6 @@
      <title>Git</title>
 </head>
 </body>
-Hello, this this new changes3
+Hello, this this new changes
+This is some really cool changes
 </html>
